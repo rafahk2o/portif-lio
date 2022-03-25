@@ -454,7 +454,7 @@ header{
     width: 35%;
     background: 
     linear-gradient(rgba(15, 15, 15, 0.6), rgba(22, 22, 22, 0.9 )), 
-    url(/imagens/contato.jpg);
+    url(imagens/contato.jpg);
     background-size: cover;
 }
 .contato-right{
