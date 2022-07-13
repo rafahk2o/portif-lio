@@ -613,6 +613,10 @@ header {
     padding: 0.3rem;
 }
 
+#qtde{
+    width: 4rem;
+}
+
 .btn-orcamento {
     text-transform: uppercase;
     padding: 1rem;
