@@ -603,7 +603,7 @@ header {
     font-weight: bold;
 }
 
-.sessao-orcamento input [type="number"] {
+.sessao-orcamento input[type="number"]{
     font-family: var(--font-secundary);
     width: 4rem;
     font-size: 2rem;
